@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    outline: 10px white solid;
+    outline-offset: 20px;
+    
+}
+h1{
+    font-size: 100px;
+    color: white;
+ 
+}
+h2{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
